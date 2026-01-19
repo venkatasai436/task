@@ -1,0 +1,11 @@
+patient_id,gender,diagnosis,age,glucose,readmitted
+1,Male,Diabetes,65,145,Yes
+2,Female,Hypertension,72,130,No
+3,Female,Heart Disease,59,160,Yes
+4,Male,Diabetes,80,155,No
+5,Female,Unknown,68,140,No
+6,Male,Hypertension,75,135,Yes
+7,Female,Heart Disease,60,150,No
+8,Male,Diabetes,70,148,No
+9,Female,Hypertension,66,132,Yes
+10,Male,Heart Disease,73,158,No
